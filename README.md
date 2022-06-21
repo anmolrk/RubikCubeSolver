@@ -4,3 +4,5 @@ Rubik’s Cube Solver is GUI based python project that can solve rubik’s cube 
 # Requirement
 kociemba == 1.2.1 <br>
 numpy == 1.17.4
+
+# Preview

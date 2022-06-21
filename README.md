@@ -6,3 +6,4 @@ kociemba == 1.2.1 <br>
 numpy == 1.17.4
 
 # Preview
+<img src="https://github.com/anmolrk/RubikCubeSolver/blob/main/preview.png">
